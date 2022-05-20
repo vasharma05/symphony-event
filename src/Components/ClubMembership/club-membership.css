@@ -1,0 +1,39 @@
+.club-membership-header {
+  border-bottom: 2px solid #e2e2e2;
+  padding-bottom: 1rem;
+  margin: 1rem 2rem;
+}
+
+.cardsGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  padding: 0 1rem 1rem 1rem;
+  margin: 1rem 0;
+}
+
+.card {
+  margin: 0 1rem 2rem 1rem;
+  text-align: justify;
+}
+
+.card:hover {
+  box-shadow: 0 0 16px 0 #5d5d5d;
+  border-radius: 8px;
+}
+
+.card-action-area {
+  text-align: left;
+}
+
+.modal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-card {
+  text-align: justify;
+  width: 50vw;
+  max-height: 90vh;
+  overflow-y: auto !important;
+}

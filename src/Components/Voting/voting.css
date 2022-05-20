@@ -1,0 +1,59 @@
+.voting-section {
+  text-align: justify;
+  padding: 1rem;
+}
+
+.voting-section h1 {
+  text-align: center;
+  border-bottom: 2px solid #d5d5d5;
+  padding-bottom: 1rem;
+}
+.voting-actions {
+  width: 100%;
+  margin: 1rem 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.fullWidth {
+  width: 100%;
+}
+
+.voting-question-label {
+  /* color: white; */
+}
+
+.voting-radio-button {
+  box-shadow: 0 0 8px 0 #e0e0e0;
+  border-radius: 8px;
+  width: 100%;
+  margin-bottom: 1rem;
+  transition: all 0.5s linear;
+  padding: 1rem;
+  box-sizing: border-box;
+  background-color: white;
+}
+
+.voting-radio-button div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.voting-container {
+  display: flex;
+  justify-content: center;
+}
+
+.voting-card {
+  padding: 2rem;
+  width: 350px;
+  box-shadow: 0 0 16px #e0e0e0;
+  border-radius: 16px;
+  border: 1px solid blueviolet;
+}
+
+.voting-radio-button:hover {
+  box-shadow: 0 0 16px 0 #a0a0a0;
+}
