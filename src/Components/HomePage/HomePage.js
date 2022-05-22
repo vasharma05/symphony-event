@@ -11,7 +11,7 @@ export default function HomePage() {
     <React.Fragment>
       <CssBaseline />
       <Container maxWidth="lg">
-        <Header title="BASH" />
+        <Header title="Symphony" />
         <main>
           <MainFeaturedPost post={mainFeaturedPost} />
           <Grid container spacing={2} align="center">
@@ -25,8 +25,8 @@ export default function HomePage() {
 }
 
 const mainFeaturedPost = {
-  title: "BASH BOT",
-  description: "Blissful Ally for Smart Human",
+  title: "Symphony",
+  description: "The Ultimate Fan engagement Application. One Stop Solution for all fan Enagement: unified service with all content features for fans across all sports on one Mobile app such as gamification, club memberships, ticketing, live-streaming and direct engagement with athletes. ",
   image:
     "https://media-exp1.licdn.com/dms/image/C5112AQFu44n2CJMn2Q/article-inline_image-shrink_1000_1488/0/1583401074610?e=1653523200&v=beta&t=k-toDf-zunQ11eFelVAwAdIUamukcF3pT1J5AOgonOY",
   imgText: "HomePage",

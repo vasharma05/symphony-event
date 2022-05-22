@@ -22,8 +22,8 @@ const steps = [
       url: '/external'
   },
   {
-    label: 'BASH Coins',
-    description: `On approval & attending, you will earn BASH Coins`,
+    label: 'Coins',
+    description: `On approval & attending, you will earn Coins`,
     url: '/external'
   },
   {

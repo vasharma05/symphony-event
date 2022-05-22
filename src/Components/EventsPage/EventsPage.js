@@ -11,7 +11,7 @@ export default function EventsPage() {
     <React.Fragment>
       <CssBaseline />
       <Container maxWidth="lg">
-        <Header title="Internal Events" />
+        <Header title="Sports Events" />
         <main>
           <MainFeaturedPost post={mainFeaturedPost} />
           <Grid container spacing={2} align="center">
@@ -25,9 +25,9 @@ export default function EventsPage() {
 }
 
 const mainFeaturedPost = {
-  title: "Internal Events Page",
+  title: "Sports Events Page",
   description:
-    "One stop platform to search and attend personalised internal & external events",
+    "One stop platform to search and attend personalised sport events",
   image:
     "https://thumbs.gfycat.com/AntiqueEdibleBarnswallow-size_restricted.gif",
   imgText: "Events",

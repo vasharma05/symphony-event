@@ -212,7 +212,7 @@ export default function SignUpPage() {
               style={{ color: "#ca142a" }}
               align="center"
             >
-              Welcome to BASH
+              Welcome to Symphony
             </Typography>
             <br />
             <Typography
@@ -221,7 +221,7 @@ export default function SignUpPage() {
               align="center"
             >
               <b>
-                <i>Blissful Ally for Smart Human</i>
+                <i>The Ultimate Fan engagement Application</i>
               </b>
             </Typography>
           </Box>

@@ -51,7 +51,8 @@ export default function HomePageTile() {
           
           <h1>Get Along</h1>
           <center>
-            {toggle === 0 ? <StepsInternal /> : <StepsExternal/> }
+            {/* {toggle === 0 ? <StepsInternal /> : <StepsExternal/> } */}
+            <StepsInternal /> 
           </center>
         </Container>
      
@@ -125,12 +126,12 @@ export default function HomePageTile() {
 
 const dashboardStats = [
   {
-    title: 'Internal Events',
+    title: 'Internal Sports Events',
     icon: "https://media.istockphoto.com/vectors/employee-engagement-concept-vector-id1330594434?k=20&m=1330594434&s=612x612&w=0&h=EP9lQ2z55xwRktPnEIRXEByAZLpObnMpvqUQ60EFTsU=",
     value: 0
   },
   {
-    title: 'External Events',
+    title: 'External Sports Events',
     value: 1,
     icon: "https://media.istockphoto.com/vectors/business-presentation-with-charts-on-the-board-in-front-of-the-at-vector-id1193355523?k=20&m=1193355523&s=612x612&w=0&h=xdE-53FZhrGwk279h2w54VL9q0ICCYulspxfQTZzuIY=",
   },

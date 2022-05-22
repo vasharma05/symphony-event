@@ -110,19 +110,7 @@ export default function LoginPage() {
             autoFocus
             onChange={handleEmail}
           />
-          <TextField
-            variant="outlined"
-            color="secondary"
-            margin="normal"
-            required
-            fullWidth
-            id="email"
-            label="RSA Token"
-            name="rsa"
-            autoComplete="rsa"
-            autoFocus
-            onChange={handleEmail}
-          />
+
           <TextField
             variant="outlined"
             color="secondary"
@@ -177,7 +165,7 @@ export default function LoginPage() {
               style={{ color: "#ca142a" }}
               align="center"
             >
-              Welcome to BASH
+              Welcome to Symphony
             </Typography>
             <br />
             <Typography
@@ -186,7 +174,7 @@ export default function LoginPage() {
               align="center"
             >
               <b>
-                <i>Blissful Ally for Smart Human</i>
+                <i>The Ultimate Fan engagement Application</i>
               </b>
             </Typography>
           </Box>

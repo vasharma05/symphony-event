@@ -22,8 +22,8 @@ const steps = [
       url: '/internal'
   },
   {
-    label: 'BASH Coins',
-    description: `Share feedback & Earn BASH Coins`,
+    label: 'Coins',
+    description: `Share feedback & Earn Coins`,
     url: '/internal'
   },
   {
@@ -32,8 +32,8 @@ const steps = [
     url: '/internal'
   },
   {
-    label: 'Nomu - Metaverse',
-    description: `Enjoy event gallery in Nomura's Metaverse`,
+    label: 'Metaverse',
+    description: `Enjoy event gallery in Metaverse`,
     url: '/internal'
   }
  

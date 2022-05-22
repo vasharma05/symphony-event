@@ -26,7 +26,7 @@ export default function BottomNavigationPage() {
             }}
           >
             <BottomNavigationAction label="Interested" icon={<RestoreIcon />} />
-            <BottomNavigationAction label="BASH Coins" icon={<FavoriteIcon />} />
+            <BottomNavigationAction label="Coins" icon={<FavoriteIcon />} />
             <BottomNavigationAction label="Gallery" icon={<ArchiveIcon />} />
           </BottomNavigation>
         </Paper>

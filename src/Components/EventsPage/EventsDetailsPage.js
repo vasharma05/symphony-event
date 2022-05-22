@@ -206,33 +206,33 @@ export default function EventsDetailsPage() {
 
 const data = [
   {
-    title: "Indian Canvas Painting",
+    title: "Mumbai Indians Meetup",
     eid: "1",
-    description: "Quick 1min podcast to know more about Indian Canvas Painting",
+    description: "Quick meet-up with all Mumbai Indians Cricketers",
     image:
-      "https://5.imimg.com/data5/EW/AC/MY-30913564/canvas-painting-500x500.jpg",
+      "https://images.hindustantimes.com/img/2022/05/21/550x309/ANI-20220521230-0_1653156868780_1653156884750.jpg",
     imageText: "Artists name",
     readmore:
-      "While sitting down, stretch your arms out at your sides and press your shoulder blades together. With your palms facing down, circle your arms forwards around 20 times. Then, face your palms upwards and circle your arms backwards around 20 times. After this, circle your wrists 20 times in each direction.",
+      "Quick meet-up with all Mumbai Indians Cricketers",
   },
   {
-    title: "Worli Paintaing",
+    title: "Messi in Banglore",
     eid: "2",
-    description: "How to get started with Worli Paintings",
+    description: "Dream coming true - Meet Messi in Banglore!",
     image:
-      "https://5.imimg.com/data5/PI/TE/MY-13589378/2016-07-05-16-53-05-500x500.jpg",
+      "https://i.guim.co.uk/img/media/a7fe7170defa865d2b96b829f05c5d8fa82d8edf/0_20_2201_1321/master/2201.jpg?width=465&quality=45&auto=format&fit=max&dpr=2&s=72bbae118ff1631bcc0d1f837159a727",
     imageText: "Artists name",
     readmore:
-      "Stand up and hold your hands together behind your back, expanding your chest. Pull your shoulder blades as close together as possible and hold the pose for 30 seconds.",
+      "Dream coming true - Meet Messi in Banglore!",
   },
   {
-    title: "Brush Strokes",
+    title: "Badminton Day",
     eid: "3",
-    description: "All you need to know about Brush Strokes",
+    description: "Play Badminton Tournament with Badminton Lovers",
     image:
-      "https://image.freepik.com/free-photo/multicolored-paint-brush-strokes-surface_23-2148815523.jpg",
+      "https://i.cdn.newsbytesapp.com/images/l21720210730194535.jpeg",
     imageText: "Artists name",
     readmore:
-      "Under your desk, raise both legs at once upwards, and slowly lower them down. Repeat few times.",
+      "Play Badminton Tournament with Badminton Lovers",
   },
 ];
