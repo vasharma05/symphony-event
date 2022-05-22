@@ -211,12 +211,12 @@ const featuredPosts = [
   {
     title: "Messi in Banglore",
     eid: "2",
-    description: "Dream coming true - Meet Messi in Banglore!",
+    description: "Dream coming true - Meet Messi in Banglore! Lionel Andrés Messi, also known as Leo Messi, is an Argentine professional footballer who plays as a forward for Ligue 1 club Paris Saint-Germain and captains the Argentina national team.",
     image:
       "https://i.guim.co.uk/img/media/a7fe7170defa865d2b96b829f05c5d8fa82d8edf/0_20_2201_1321/master/2201.jpg?width=465&quality=45&auto=format&fit=max&dpr=2&s=72bbae118ff1631bcc0d1f837159a727",
     imageText: "Artists name",
     readmore:
-      "Dream coming true - Meet Messi in Banglore!",
+      "Dream coming true - Meet Messi in Banglore! Lionel Andrés Messi, also known as Leo Messi, is an Argentine professional footballer who plays as a forward for Ligue 1 club Paris Saint-Germain and captains the Argentina national team.",
   },
   {
     title: "Badminton Day",

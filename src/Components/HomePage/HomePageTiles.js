@@ -56,62 +56,7 @@ export default function HomePageTile() {
           </center>
         </Container>
      
-        <Typography variant="h5" className={classes.divHeading}>
-          <b>Event Categories</b>
-        </Typography>
-    <br />
-        <Grid
-          container
-          spacing={4}
-          direction="row"
-          alignItems="center"
-          justifyContent="center"
-          //  style={{ minHeight: '100vh' }}
-        >
-          <Grid item>
-            <Link to={"/events/csr"} style={{ textDecoration: 'none' }}> 
-              <GenericCard alt="CSR Icon" image="https://kmdastur.com/wp-content/uploads/csr-KMD.png" desc="CSR"/>
-            </Link>
-          </Grid>
-          <Grid item>
-            <Link to={"/events/health&wellness"} style={{ textDecoration: 'none' }}> 
-              <GenericCard alt="Health&Wellness Icon" image="https://cdn.iconscout.com/icon/premium/png-256-thumb/health-and-wellness-4425334-3668992.png" desc="Health & Wellness"/>
-            </Link>
-          </Grid>
-          <Grid item>
-            <Link to={"/events/innovation&technology"} style={{ textDecoration: 'none' }}> 
-              <GenericCard alt="Innovation&Technology Icon" 
-                image="https://cdn.iconscout.com/icon/premium/png-256-thumb/innovative-technology-738852.png" desc="Innovation & Technology"/>
-            </Link>
-          </Grid>
-          <Grid item>
-            <Link to={"/events/culture"} style={{ textDecoration: 'none' }}> 
-              <GenericCard alt="Culture Icon" 
-                image="https://cdn.iconscout.com/icon/premium/png-256-thumb/culture-3728068-3108373.png" desc="Life & Culture"/>
-            </Link>
-          </Grid>
-          <Grid item>
-            <Link to={"/events/art"} style={{ textDecoration: 'none' }}> 
-              <GenericCard alt="Art Icon" image="https://cdn.iconscout.com/icon/premium/png-256-thumb/painting-3333455-2773690.png" desc="ART"/>
-            </Link>
-          </Grid>
-          {/* <Grid item>
-            <GenericCard alt="Finance Icon" image="https://cdn.iconscout.com/icon/premium/png-256-thumb/digital-finance-1133706.png" desc="FINANCE"/>
-          </Grid> */}
-          <Grid item>
-            <Link to={"/events/strategy"} style={{ textDecoration: 'none' }}> 
-              <GenericCard alt="Strategy Icon" image="https://cdn.iconscout.com/icon/premium/png-256-thumb/strategy-plan-target-achieve-board-sketch-business-model-60322.png" desc="Strategy"/>
-            </Link>
-          </Grid>
-          {/* <Grid item>
-            <img
-              src="  https://cdn.iconscout.com/icon/premium/png-256-thumb/human-resource-management-1528152-1297600.png"
-              height="130px"
-              width="130px"
-              alt="icon"
-            />
-          </Grid> */}
-        </Grid>
+       
 
         <br />
         <br />
